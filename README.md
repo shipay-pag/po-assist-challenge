@@ -2,7 +2,7 @@
 
 ### 1) Leia abaixo a descrição de uma API para desenvolvimento da integração entre um sistema de frente de caixa (PDV) com um gateway de pagamentos digitais: 
 
-##### [GET /carteiras]: Lista de carteiras digitais disponíveis na loja 
+#### [GET /carteiras]: Lista de carteiras digitais disponíveis na loja 
 
 > "Este serviço retorna todas as carteiras digitais que estejam disponíveis no estabelecimento comercial.
 >
