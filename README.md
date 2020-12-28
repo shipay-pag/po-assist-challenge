@@ -19,7 +19,7 @@ Agora que você já conhece o serviço [GET /carteiras] do gateway de pagamentos
 
 - O sistema de PDV XPTO está desenvolvendo a integração com as APIs do gateway e deu este feedback: 
 
-"Seria muito interessante para nosso sistema XPTO se o serviço [GET /carteiras] nos retornasse, além do nome das carteiras disponíveis no estabelecimento, também uma imagem com o logo de cada uma das carteiras para exibir na tela do sistema de PDV e melhorar a experiência do operador de caixa."
+> "Seria muito interessante para nosso sistema XPTO se o serviço [GET /carteiras] nos retornasse, além do nome das carteiras disponíveis no estabelecimento, também uma imagem com o logo de cada uma das carteiras para exibir na tela do sistema de PDV e melhorar a experiência do operador de caixa."
 
 
 - Escreva uma user-story para que o time de desenvolvimento possa densevolver essa melhoria na próxima sprint:
