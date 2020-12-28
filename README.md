@@ -13,6 +13,7 @@
 
 Como complemento ao trecho da documentação acima, assista à esse vídeo e veja como o **[GET /carteiras]** funciona na prática: https://www.youtube.com/watch?v=19PTw_9pJX0 (no vídeo, o **[GET /carteiras]** é chamado no trecho a partir de 0:31).
 
+---
 
 Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagamentos, analise a seguinte situação:
 
