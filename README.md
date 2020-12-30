@@ -26,3 +26,7 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 - Escreva uma user-story para que o time de desenvolvimento possa densevolver essa melhoria na próxima sprint:
 
 -> 
+
+
+
+### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens abaixo como ela funciona: 
