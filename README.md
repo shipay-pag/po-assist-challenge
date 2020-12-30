@@ -13,7 +13,6 @@
 
 Como complemento ao trecho da documentação acima, assista à esse vídeo e veja como o **[GET /carteiras]** funciona na prática: https://www.youtube.com/watch?v=19PTw_9pJX0 (no vídeo, o **[GET /carteiras]** é chamado no trecho a partir de 0:31).
 
---
 
 Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagamentos, analise a seguinte situação:
 
@@ -27,6 +26,14 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 -> 
 
+---
 
+### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens "esqueceu_senha.png" e "redefinicao_senha.png" como ela funciona.
 
-### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens abaixo como ela funciona: 
+- Supondo que essa funcionalidade acabou de ser entregue pelo time de desenvolvimento, quais testes você faria para validar essa nova funcionalidade? 
+
+-> 
+
+---
+
+### 3) Precisamos atualizar nossa documentação para incluir uma nova forma de "confirmação de pagamento" (CALLBACK) no fluxo de criação de pedidos e confirmação de pagamentos através das APIs da Shipay:
