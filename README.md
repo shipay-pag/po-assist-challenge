@@ -36,4 +36,6 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 ---
 
-### 3) Precisamos atualizar nossa documentação para incluir uma nova forma de "confirmação de pagamento" (CALLBACK) no fluxo de criação de pedidos e confirmação de pagamentos através das APIs da Shipay:
+### 3) Precisamos atualizar nossa documentação para incluir uma nova forma de "confirmação de pagamento" (chamada de "CALLBACK") no fluxo de criação de pedidos e confirmação de pagamentos através das APIs da Shipay.
+
+- 
