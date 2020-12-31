@@ -28,7 +28,7 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 ---
 
-### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens "02-esqueceu_senha.png" e "02-redefinicao_senha.png" como ela funciona.
+### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens abaixo como ela funciona:
 
 ![Image](02-esqueceu_senha.png)
 
@@ -42,11 +42,15 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 ### 3) Precisamos atualizar nossa documentação para incluir uma nova forma de "confirmação de pagamento" (chamada de *"callback"*) no fluxo de criação de pedidos e confirmação de pagamentos através das APIs da Shipay. Veja o fluxo anterior e o novo fluxo nas imagens:
 
-> 03-fluxo_anterior.png -> **Fluxo anterior:** a confirmação do pagamento é feita de forma ativa pelo sistema integrado à Shipay
->
-> 03-fluxo_callback.png -> **Novo fluxo:** o sistema integrado à Shipay recebe de forma passiva a confirmação do pagamento (*callback*)
+- **Fluxo anterior:** a confirmação do pagamento é feita de forma ativa pelo sistema integrado à Shipay (passo 3)
 
-- Considerando que o "CALLBACK" é um estímulo que a Shipay envia para o sistema parceiro integrado quando o pagamento é confirmado, descreva o novo fluxo. Utilize a descrição dos passos do "Fluxo anterior" como base.
+![Image](03-fluxo_anterior.png)
+
+- **Novo fluxo:** o sistema integrado à Shipay recebe de forma passiva a confirmação do pagamento. Ou seja, ele recebe um *callback* (passo 4)
+
+![Image](03-fluxo_callback.png) 
+
+- Considerando que o *"callback"* é um estímulo que a Shipay envia para o sistema parceiro integrado quando o pagamento é confirmado, descreva o **passo 4** do novo fluxo. 
 
 -> 
 
