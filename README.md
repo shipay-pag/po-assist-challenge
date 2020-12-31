@@ -30,6 +30,10 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 ### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens "02-esqueceu_senha.png" e "02-redefinicao_senha.png" como ela funciona.
 
+![Image](02-esqueceu_senha.png)
+
+![Image](02-redefinicao_senha.png)
+
 - Supondo que essa funcionalidade acabou de ser entregue pelo time de desenvolvimento, quais testes você faria para validar essa nova funcionalidade? 
 
 -> 
