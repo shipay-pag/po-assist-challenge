@@ -1,6 +1,6 @@
 ### Fluxo de Operação
 
-![Image](03-fluxo_callback.png) 
+![Image](03-fluxo_callback_image.png) 
 
 1. PDV envia pedido informando a carteira escolhida pelo cliente (Mercado Pago, Ame, PicPay, etc.).
 
