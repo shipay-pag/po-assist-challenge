@@ -41,3 +41,5 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 - 03-fluxo_anterior.png -> **Fluxo anterior:** a confirmação do pagamento é feita de forma ativa pelo sistema integrado à Shipay
 
 - 03-fluxo_callback.png -> **Novo fluxo:** o sistema integrado à Shipay recebe de forma passiva a confirmação do pagamento (*callback*)
+
+
