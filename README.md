@@ -28,7 +28,7 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 ---
 
-### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens "esqueceu_senha.png" e "redefinicao_senha.png" como ela funciona.
+### 2) Na tela de Login do Painel Shipay existe a funcionalidade "Esqueceu a senha?". Veja nas imagens "02-esqueceu_senha.png" e "02-redefinicao_senha.png" como ela funciona.
 
 - Supondo que essa funcionalidade acabou de ser entregue pelo time de desenvolvimento, quais testes você faria para validar essa nova funcionalidade? 
 
@@ -36,6 +36,8 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 ---
 
-### 3) Precisamos atualizar nossa documentação para incluir uma nova forma de "confirmação de pagamento" (chamada de "CALLBACK") no fluxo de criação de pedidos e confirmação de pagamentos através das APIs da Shipay.
+### 3) Precisamos atualizar nossa documentação para incluir uma nova forma de "confirmação de pagamento" (chamada de *"callback"*) no fluxo de criação de pedidos e confirmação de pagamentos através das APIs da Shipay. Veja o fluxo anterior e o novo fluxo nas imagens:
 
-- 
+- 03-fluxo_anterior.png -> **Fluxo anterior:** a confirmação do pagamento é feita de forma ativa pelo sistema integrado à Shipay
+
+- 03-fluxo_callback.png -> **Novo fluxo:** o sistema integrado à Shipay recebe de forma passiva a confirmação do pagamento (*callback*)
