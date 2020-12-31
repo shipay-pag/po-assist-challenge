@@ -8,9 +8,8 @@
 > - PDV renderiza QR Code em base64 na tela *(caso o monitor do PDV não esteja visível para o cliente, QR Code em texto é utilizado para impressão)*;
 > - Cliente abre app da carteira escolhida, lê o QR Code e faz o pagamento.
 
-3. PDV consulta na Shipay status do pedido até que o mesmo esteja Aprovado.
-> - Quando estiver aprovado, PDV verifica se o valor pago é igual ao valor do pedido.
+3. Carteira notifica a Shipay que o pedido foi pago.
 
-4. Carteira Digital retorna status do pagamento para a Shipay.
+4. **????**
 
 <br>
