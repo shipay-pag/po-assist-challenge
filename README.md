@@ -48,7 +48,7 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 - **Novo fluxo:** o sistema integrado à Shipay recebe de forma passiva a confirmação do pagamento. Ou seja, ele recebe um *callback* (passo 4)
 
-![Image](03-fluxo_callback_image.png) 
+![Image](03-fluxo_callback.png) 
 
 - Considerando que o *"callback"* é um estímulo que a Shipay envia para o sistema parceiro integrado quando o pagamento é confirmado, descreva o **passo 4** do novo fluxo. 
 
