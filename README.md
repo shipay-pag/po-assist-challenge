@@ -38,8 +38,11 @@ Agora que você já conhece o serviço **[GET /carteiras]** do gateway de pagame
 
 ### 3) Precisamos atualizar nossa documentação para incluir uma nova forma de "confirmação de pagamento" (chamada de *"callback"*) no fluxo de criação de pedidos e confirmação de pagamentos através das APIs da Shipay. Veja o fluxo anterior e o novo fluxo nas imagens:
 
-- 03-fluxo_anterior.png -> **Fluxo anterior:** a confirmação do pagamento é feita de forma ativa pelo sistema integrado à Shipay
+> 03-fluxo_anterior.png -> **Fluxo anterior:** a confirmação do pagamento é feita de forma ativa pelo sistema integrado à Shipay
+>
+> 03-fluxo_callback.png -> **Novo fluxo:** o sistema integrado à Shipay recebe de forma passiva a confirmação do pagamento (*callback*)
 
-- 03-fluxo_callback.png -> **Novo fluxo:** o sistema integrado à Shipay recebe de forma passiva a confirmação do pagamento (*callback*)
+- Considerando que o "CALLBACK" é um estímulo que a Shipay envia para o sistema parceiro integrado quando o pagamento é confirmado, descreva o novo fluxo. Utilize a descrição dos passos do "Fluxo anterior" como base.
 
+-> 
 
